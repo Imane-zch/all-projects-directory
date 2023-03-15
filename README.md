@@ -1,4 +1,4 @@
-# all-projects-directory
+# All Projects Directory
 
 This is a directory listing all my published projects
 This file's purpose is to help you navigate through my projects easier, the projects have been ordered alphabetically.
