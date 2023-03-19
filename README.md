@@ -22,8 +22,7 @@ This file's purpose is to help you navigate through my projects easier, the proj
 ## F <a id="f"></a>
   
 ## G <a id="g"></a>
-
-
+  - <a href="https://github.com/Imane-zch/green-shef-restaurant">Green Shef Restaurant<a/> - a restaurant website created using HTML, CSS, Javascript.
 ## H <a id="h"></a>
   
 ## I <a id="i"></a>
@@ -43,7 +42,6 @@ This file's purpose is to help you navigate through my projects easier, the proj
 ## S <a id="s"></a>
 
 ## T <a id="t"></a>
-https://github.com/Imane-zch/travel-agency-landing/tree/master
   - <a href="https://github.com/Imane-zch/travel-agency-landing/">Travel Agency landing page<a/> - a travel agency landing pages created using HTML, CSS, Javascript, ReactJs and Vite.
 
 ## U <a id="u"></a>
